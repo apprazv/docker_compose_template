@@ -1,0 +1,10 @@
+## Useful Commands ##
+
+## Orchestrate ##
+docker-compose build
+
+## Compose Container Orchestration ##
+docker-compose up -d
+
+## This is for a Django App ##
+docker-compose run web django-admin startproject composeexample .
